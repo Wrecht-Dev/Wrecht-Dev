@@ -1,7 +1,16 @@
 # wrecht
 
-web dev, mostly. i make things for the browser and occasionally pretend to understand rust.
+i run media servers. all of it — the Plex/Jellyfin side, the *arr automation that
+feeds them, and the parts nobody sane touches: DRM, weird formats, players that
+don't want to work, protocols that were never meant to talk to each other.
 
-currently: too many side projects, one of them might work out.
+if it involves getting video to play somewhere it shouldn't have to, i've
+probably lost a weekend to it.
 
-i do a bit of security stuff on the side, learning as i go.
+i write scripts and bots to automate things that absolutely did not need
+automating, which is the entire point.
+
+the stack is node and rust, mostly rust when i want to feel something.
+
+this profile is for me. if you're reading it anyway — hi. the code speaks
+for itself, badly.
