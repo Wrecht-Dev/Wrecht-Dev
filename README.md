@@ -14,3 +14,7 @@ the stack is node and rust, mostly rust when i want to feel something.
 
 this profile is for me. if you're reading it anyway — hi. the code speaks
 for itself, badly.
+
+elsewhere: [x.com/ShredTheLogs](https://x.com/ShredTheLogs) · cantina as **Wrecht**
+
+the mother in raised by wolves was right about everything, that's all i'll say.
