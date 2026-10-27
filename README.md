@@ -17,4 +17,4 @@ for itself, badly.
 
 elsewhere: [x.com/ShredTheLogs](https://x.com/ShredTheLogs) · cantina as **Wrecht**
 
-the mother in raised by wolves was right about everything, that's all i'll say.
+planning on regenerating at some point. haven't decided on a face yet.
