@@ -28,9 +28,10 @@ repair, and a github pages publish. [repo](https://github.com/Wrecht-Dev/curated
 ## security research
 
 i break things on purpose, then write down what happened. recent work is in
-web/api authorization and evm relay surfaces — a private cantina case study and
-a small ai-assisted bounty pipeline for recon, triage, and reporting. the
-interesting part is not the automation; it's knowing which findings are real.
+web/api authorization and evm relay surfaces — a private cantina case study
+(confirmed Medium) and a small ai-assisted bounty pipeline for recon, triage, and
+reporting. the interesting part is not the automation; it's knowing which
+findings are real.
 
 case studies available on request.
 
