@@ -49,6 +49,7 @@ bounty pipeline to do the boring 80% without pretending it can do the last 20%.
 ## elsewhere
 
 - x: [@ShredTheLogs](https://x.com/ShredTheLogs)
+- cantina: [cantina.xyz/u/wrecht](https://cantina.xyz/u/wrecht)
 
 ---
 
